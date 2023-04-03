@@ -1,0 +1,51 @@
+package com.remainsoftware.e3.hello;
+
+import org.eclipse.jface.action.MenuManager;
+import org.eclipse.jface.dialogs.MessageDialog;
+import org.eclipse.swt.SWT;
+import org.eclipse.swt.events.SelectionAdapter;
+import org.eclipse.swt.events.SelectionEvent;
+import org.eclipse.swt.layout.GridData;
+import org.eclipse.swt.widgets.Button;
+import org.eclipse.swt.widgets.Composite;
+import org.eclipse.ui.part.ViewPart;
+import org.eclipse.swt.widgets.Menu;
+
+public class HelloWorld extends ViewPart {
+
+	public HelloWorld() {
+		// TODO Auto-generated constructor stub
+	}
+
+	@Override
+	public void createPartControl(Composite parent) {
+		// TODO Auto-generated method stub
+		Button button = new Button(parent, SWT.PUSH);
+		button.setLayoutData(new GridData(SWT.BEGINNING, SWT.CENTER, false, false));
+		button.setText("Code world, no blanket!!!");
+		button.addSelectionListener(new SelectionAdapter() {
+			@Override
+			public void widgetSelected(SelectionEvent e) {
+				MessageDialog.openInformation(parent.getShell(), "Code world, no blanket!!!", "Hello Research!");
+				System.out.println(1);
+			}
+		});
+		
+		registerContextMenu(parent);
+
+	}
+	
+	private void registerContextMenu(Composite parent) {
+		MenuManager manager = new MenuManager();
+		Menu contextMenu = manager.createContextMenu(parent);
+		getSite().registerContextMenu(manager, null);
+		parent.setMenu(contextMenu);
+	}
+
+	@Override
+	public void setFocus() {
+		// TODO Auto-generated method stub
+
+	}
+
+}

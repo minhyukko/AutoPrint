@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="org.eclipse.swt.widgets.Composite"/>
+    <fullyQualifiedTypeName name="java.awt.Button"/>
+    <fullyQualifiedTypeName name="org.eclipse.swt.widgets.Button"/>
+    <fullyQualifiedTypeName name="org.eclipse.jface.dialogs.MessageDialog"/>
+    <fullyQualifiedTypeName name="org.eclipse.ui.PlatformUI"/>
+    <fullyQualifiedTypeName name="org.eclipse.jface.action.MenuManager"/>
+</qualifiedTypeNameHistroy>
