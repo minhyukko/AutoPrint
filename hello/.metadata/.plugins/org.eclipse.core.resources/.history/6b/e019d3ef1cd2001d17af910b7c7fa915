@@ -1,0 +1,35 @@
+package com.remainsoftware.e3.hello;
+
+import org.eclipse.swt.*;
+import org.eclipse.swt.graphics.*;
+import org.eclipse.swt.widgets.*;
+
+public class HelloSWT {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Display display = new Display();
+		Shell shell = new Shell(display);
+		shell.setText("Window");
+		
+		new Button(shell, SWT.CHECK).setText("button.");
+		
+		Spinner spinner = new Spinner (shell, SWT.BORDER);
+		spinner.setMinimum(0);
+		spinner.setMaximum(1000);
+		spinner.setSelection(500);
+		spinner.setIncrement(1);
+		spinner.setPageIncrement(100);
+		Rectangle clientArea = shell.getClientArea();
+		spinner.setLocation(clientArea.x, clientArea.y);
+		spinner.pack();
+		shell.pack();
+		shell.open();
+		while (!shell.isDisposed()) {
+			if (!display.readAndDispatch())
+				display.sleep();
+		}
+		display.dispose();
+	}
+
+}
