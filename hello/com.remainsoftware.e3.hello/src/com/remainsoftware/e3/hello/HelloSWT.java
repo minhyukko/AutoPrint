@@ -154,7 +154,7 @@ public class HelloSWT {
 		                } else {
 		                	try {
 		                	String setArrVar = combo.getText() + "\\" + setArr[i].toString();
-		                    run(combinedArray, setArrVar);
+		                    run(args, setArrVar);
 		                	} catch (Exception e1) {
 		                		System.out.print(e1);
 		                	}

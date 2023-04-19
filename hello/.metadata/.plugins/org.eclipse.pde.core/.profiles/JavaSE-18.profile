@@ -1,0 +1,10 @@
+#Tue Apr 18 20:51:56 EDT 2023
+org.eclipse.jdt.core.compiler.problem.assertIdentifier=error
+org.osgi.framework.executionenvironment=OSGi/Minimum-1.0, OSGi/Minimum-1.1, OSGi/Minimum-1.2, JavaSE/compact1-1.8, JavaSE/compact2-1.8, JavaSE/compact3-1.8, JRE-1.1, J2SE-1.2, J2SE-1.3, J2SE-1.4, J2SE-1.5, JavaSE-1.6, JavaSE-1.7, JavaSE-1.8, JavaSE-9, JavaSE-10, JavaSE-11, JavaSE-12, JavaSE-13, JavaSE-14, JavaSE-15, JavaSE-16, JavaSE-17, JavaSE-18
+org.eclipse.jdt.core.compiler.codegen.targetPlatform=18
+org.eclipse.jdt.core.compiler.source=18
+org.eclipse.jdt.core.compiler.release=enabled
+org.eclipse.jdt.core.compiler.problem.enumIdentifier=error
+org.eclipse.jdt.core.compiler.problem.enablePreviewFeatures=disabled
+org.eclipse.jdt.core.compiler.problem.reportPreviewFeatures=warning
+org.eclipse.jdt.core.compiler.compliance=18
