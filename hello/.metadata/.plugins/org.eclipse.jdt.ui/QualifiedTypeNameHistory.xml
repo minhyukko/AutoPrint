@@ -2,8 +2,23 @@
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="org.eclipse.swt.widgets.Composite"/>
     <fullyQualifiedTypeName name="java.awt.Button"/>
-    <fullyQualifiedTypeName name="org.eclipse.swt.widgets.Button"/>
     <fullyQualifiedTypeName name="org.eclipse.jface.dialogs.MessageDialog"/>
     <fullyQualifiedTypeName name="org.eclipse.ui.PlatformUI"/>
     <fullyQualifiedTypeName name="org.eclipse.jface.action.MenuManager"/>
+    <fullyQualifiedTypeName name="org.eclipse.swt.events.SelectionListener"/>
+    <fullyQualifiedTypeName name="java.awt.event.ActionListener"/>
+    <fullyQualifiedTypeName name="org.eclipse.swt.layout.RowLayout"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="org.eclipse.swt.widgets.Display"/>
+    <fullyQualifiedTypeName name="org.eclipse.swt.widgets.Shell"/>
+    <fullyQualifiedTypeName name="org.eclipse.swt.widgets.Combo"/>
+    <fullyQualifiedTypeName name="java.awt.Label"/>
+    <fullyQualifiedTypeName name="org.eclipse.swt.widgets.Button"/>
+    <fullyQualifiedTypeName name="org.eclipse.swt.widgets.Spinner"/>
+    <fullyQualifiedTypeName name="org.eclipse.swt.widgets.Text"/>
+    <fullyQualifiedTypeName name="org.eclipse.swt.widgets.Menu"/>
+    <fullyQualifiedTypeName name="org.eclipse.swt.widgets.MenuItem"/>
+    <fullyQualifiedTypeName name="org.eclipse.swt.widgets.Label"/>
+    <fullyQualifiedTypeName name="java.awt.GridLayout"/>
+    <fullyQualifiedTypeName name="org.eclipse.swt.layout.GridLayout"/>
 </qualifiedTypeNameHistroy>

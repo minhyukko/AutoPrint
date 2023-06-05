@@ -1,0 +1,38 @@
+package com.remainsoftware.e3.hello;
+
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStream;
+import java.io.InputStreamReader;
+
+public class RunPythonFile {
+    public static void main(String[] args) {
+        try {
+            // Specify the Python script file path
+            String pythonScript = "readJava.py";
+
+            // Create the ProcessBuilder with the Python command and script file argument
+            ProcessBuilder pb = new ProcessBuilder("python", pythonScript);
+            
+            // Start the process
+            Process process = pb.start();
+            
+            // Get the process output
+            InputStream inputStream = process.getInputStream();
+            BufferedReader reader = new BufferedReader(new InputStreamReader(inputStream));
+            
+            String line;
+            while ((line = reader.readLine()) != null) {
+                System.out.println(line);
+            }
+            
+            // Wait for the process to finish
+            int exitCode = process.waitFor();
+            
+            System.out.println("Python script execution completed with exit code: " + exitCode);
+        } catch (IOException | InterruptedException e) {
+            e.printStackTrace();
+        }
+    }
+}
+

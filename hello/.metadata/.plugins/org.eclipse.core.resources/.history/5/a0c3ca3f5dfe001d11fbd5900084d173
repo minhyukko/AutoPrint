@@ -1,0 +1,35 @@
+package com.remainsoftware.e3.hello;
+
+import org.python.util.PythonInterpreter;
+import org.python.*;
+
+
+public class RunPythonFile {
+	public static void main(String[] args) throws Exception {
+	    // Create a Python interpreter.
+	    PythonInterpreter interpreter = new PythonInterpreter();
+	    String str = "from bardapi import Bard"
+	    		+ "def read_java_file(file_path):\r\n"
+	    		+ "    with open(file_path, 'r') as file:\r\n"
+	    		+ "        java_code = file.read()\r\n"
+	    		+ "    return java_code\r\n"
+	    		+ "\r\n"
+	    		+ "# Example usage\r\n"
+	    		+ "java_file_path = 'C:\\Users\\minhy\\Desktop\\Main.java'\r\n"
+	    		+ "java_code = read_java_file(java_file_path)\r\n"
+	    		+ "print(java_code)";
+	    interpreter.exec(str);
+	    interpreter.exec("print(3+8)");
+
+	    // Load the Python script.
+	    PythonModule module = interpreter.execfile("my_script.py");
+//
+//	    // Execute a function in the Python script.
+//	    PyObject result = module.call("my_function", new Object[] {});
+
+	    // Print the result of the function call.
+//	    System.out.println(result);
+	}
+}
+
+

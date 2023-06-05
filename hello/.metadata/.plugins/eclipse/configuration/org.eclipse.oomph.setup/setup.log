@@ -910,3 +910,183 @@
 <org.eclipse.ui.commands/>
 [2023-04-18 20:39:53] Performing Preference /instance/org.eclipse.ui.workbench/showCommandKeysForKeyboard = true
 [2023-04-18 20:39:53] 
+[2023-05-11 11:54:52] Executing startup tasks
+[2023-05-11 11:54:53] OpenJDK Runtime Environment 17.0.3+7
+[2023-05-11 11:54:53] Product self.product.version
+[2023-05-11 11:54:53] Workspace C:\Users\minhy\workspaces\e3\runtime-EclipseApplication
+[2023-05-11 11:54:53] Bundle org.eclipse.oomph.setup 1.24.0.v20220525-1027, build=5517, branch=ff2ccc003a1d8c4f5c15c95f48c5dbae54970054
+[2023-05-11 11:54:53] Bundle org.eclipse.oomph.setup.core 1.24.0.v20220601-1043, build=5517, branch=ff2ccc003a1d8c4f5c15c95f48c5dbae54970054
+[2023-05-11 11:54:53] Bundle org.eclipse.oomph.setup.p2 1.19.0.v20220607-1104, build=5517, branch=ff2ccc003a1d8c4f5c15c95f48c5dbae54970054
+[2023-05-11 11:54:53] Performing Preference /instance/org.eclipse.ui.workbench/org.eclipse.ui.commands = <?xml version="1.0" encoding="UTF-8"?>...
+[2023-05-11 11:54:53] <?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.ui.commands/>
+[2023-05-11 11:54:53] Performing Preference /instance/org.eclipse.ui.workbench/showCommandKeysForKeyboard = true
+[2023-05-11 11:54:53] 
+[2023-05-11 14:39:40] Executing startup tasks
+[2023-05-11 14:39:41] OpenJDK Runtime Environment 17.0.3+7
+[2023-05-11 14:39:41] Product self.product.version
+[2023-05-11 14:39:41] Workspace C:\Users\minhy\workspaces\e3\runtime-EclipseApplication
+[2023-05-11 14:39:41] Bundle org.eclipse.oomph.setup 1.24.0.v20220525-1027, build=5517, branch=ff2ccc003a1d8c4f5c15c95f48c5dbae54970054
+[2023-05-11 14:39:41] Bundle org.eclipse.oomph.setup.core 1.24.0.v20220601-1043, build=5517, branch=ff2ccc003a1d8c4f5c15c95f48c5dbae54970054
+[2023-05-11 14:39:41] Bundle org.eclipse.oomph.setup.p2 1.19.0.v20220607-1104, build=5517, branch=ff2ccc003a1d8c4f5c15c95f48c5dbae54970054
+[2023-05-11 14:39:41] Performing Preference /instance/org.eclipse.ui.workbench/org.eclipse.ui.commands = <?xml version="1.0" encoding="UTF-8"?>...
+[2023-05-11 14:39:41] <?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.ui.commands/>
+[2023-05-11 14:39:41] Performing Preference /instance/org.eclipse.ui.workbench/showCommandKeysForKeyboard = true
+[2023-05-11 14:39:41] 
+[2023-05-11 14:42:42] Executing startup tasks
+[2023-05-11 14:42:42] OpenJDK Runtime Environment 17.0.3+7
+[2023-05-11 14:42:42] Product self.product.version
+[2023-05-11 14:42:42] Workspace C:\Users\minhy\workspaces\e3\runtime-EclipseApplication
+[2023-05-11 14:42:42] Bundle org.eclipse.oomph.setup 1.24.0.v20220525-1027, build=5517, branch=ff2ccc003a1d8c4f5c15c95f48c5dbae54970054
+[2023-05-11 14:42:42] Bundle org.eclipse.oomph.setup.core 1.24.0.v20220601-1043, build=5517, branch=ff2ccc003a1d8c4f5c15c95f48c5dbae54970054
+[2023-05-11 14:42:42] Bundle org.eclipse.oomph.setup.p2 1.19.0.v20220607-1104, build=5517, branch=ff2ccc003a1d8c4f5c15c95f48c5dbae54970054
+[2023-05-11 14:42:42] Performing Preference /instance/org.eclipse.ui.workbench/org.eclipse.ui.commands = <?xml version="1.0" encoding="UTF-8"?>...
+[2023-05-11 14:42:42] <?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.ui.commands/>
+[2023-05-11 14:42:42] Performing Preference /instance/org.eclipse.ui.workbench/showCommandKeysForKeyboard = true
+[2023-05-11 14:42:42] 
+[2023-05-11 15:10:40] Executing startup tasks
+[2023-05-11 15:10:40] OpenJDK Runtime Environment 17.0.3+7
+[2023-05-11 15:10:40] Product self.product.version
+[2023-05-11 15:10:40] Workspace C:\Users\minhy\workspaces\e3\runtime-EclipseApplication
+[2023-05-11 15:10:40] Bundle org.eclipse.oomph.setup 1.24.0.v20220525-1027, build=5517, branch=ff2ccc003a1d8c4f5c15c95f48c5dbae54970054
+[2023-05-11 15:10:40] Bundle org.eclipse.oomph.setup.core 1.24.0.v20220601-1043, build=5517, branch=ff2ccc003a1d8c4f5c15c95f48c5dbae54970054
+[2023-05-11 15:10:40] Bundle org.eclipse.oomph.setup.p2 1.19.0.v20220607-1104, build=5517, branch=ff2ccc003a1d8c4f5c15c95f48c5dbae54970054
+[2023-05-11 15:10:40] Performing Preference /instance/org.eclipse.ui.workbench/org.eclipse.ui.commands = <?xml version="1.0" encoding="UTF-8"?>...
+[2023-05-11 15:10:40] <?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.ui.commands/>
+[2023-05-11 15:10:41] Performing Preference /instance/org.eclipse.ui.workbench/showCommandKeysForKeyboard = true
+[2023-05-11 15:10:41] 
+[2023-05-11 15:22:50] Executing startup tasks
+[2023-05-11 15:22:50] OpenJDK Runtime Environment 17.0.3+7
+[2023-05-11 15:22:50] Product self.product.version
+[2023-05-11 15:22:50] Workspace C:\Users\minhy\workspaces\e3\runtime-EclipseApplication
+[2023-05-11 15:22:50] Bundle org.eclipse.oomph.setup 1.24.0.v20220525-1027, build=5517, branch=ff2ccc003a1d8c4f5c15c95f48c5dbae54970054
+[2023-05-11 15:22:50] Bundle org.eclipse.oomph.setup.core 1.24.0.v20220601-1043, build=5517, branch=ff2ccc003a1d8c4f5c15c95f48c5dbae54970054
+[2023-05-11 15:22:50] Bundle org.eclipse.oomph.setup.p2 1.19.0.v20220607-1104, build=5517, branch=ff2ccc003a1d8c4f5c15c95f48c5dbae54970054
+[2023-05-11 15:22:50] Performing Preference /instance/org.eclipse.ui.workbench/org.eclipse.ui.commands = <?xml version="1.0" encoding="UTF-8"?>...
+[2023-05-11 15:22:50] <?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.ui.commands/>
+[2023-05-11 15:22:50] Performing Preference /instance/org.eclipse.ui.workbench/showCommandKeysForKeyboard = true
+[2023-05-11 15:22:51] 
+[2023-05-11 15:47:38] Executing startup tasks
+[2023-05-11 15:47:38] OpenJDK Runtime Environment 17.0.3+7
+[2023-05-11 15:47:38] Product self.product.version
+[2023-05-11 15:47:38] Workspace C:\Users\minhy\workspaces\e3\runtime-EclipseApplication
+[2023-05-11 15:47:38] Bundle org.eclipse.oomph.setup 1.24.0.v20220525-1027, build=5517, branch=ff2ccc003a1d8c4f5c15c95f48c5dbae54970054
+[2023-05-11 15:47:38] Bundle org.eclipse.oomph.setup.core 1.24.0.v20220601-1043, build=5517, branch=ff2ccc003a1d8c4f5c15c95f48c5dbae54970054
+[2023-05-11 15:47:38] Bundle org.eclipse.oomph.setup.p2 1.19.0.v20220607-1104, build=5517, branch=ff2ccc003a1d8c4f5c15c95f48c5dbae54970054
+[2023-05-11 15:47:38] Performing Preference /instance/org.eclipse.ui.workbench/org.eclipse.ui.commands = <?xml version="1.0" encoding="UTF-8"?>...
+[2023-05-11 15:47:38] <?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.ui.commands/>
+[2023-05-11 15:47:38] Performing Preference /instance/org.eclipse.ui.workbench/showCommandKeysForKeyboard = true
+[2023-05-11 15:47:38] 
+[2023-05-11 15:52:01] Executing startup tasks
+[2023-05-11 15:52:01] OpenJDK Runtime Environment 17.0.3+7
+[2023-05-11 15:52:01] Product self.product.version
+[2023-05-11 15:52:01] Workspace C:\Users\minhy\workspaces\e3\runtime-EclipseApplication
+[2023-05-11 15:52:01] Bundle org.eclipse.oomph.setup 1.24.0.v20220525-1027, build=5517, branch=ff2ccc003a1d8c4f5c15c95f48c5dbae54970054
+[2023-05-11 15:52:01] Bundle org.eclipse.oomph.setup.core 1.24.0.v20220601-1043, build=5517, branch=ff2ccc003a1d8c4f5c15c95f48c5dbae54970054
+[2023-05-11 15:52:01] Bundle org.eclipse.oomph.setup.p2 1.19.0.v20220607-1104, build=5517, branch=ff2ccc003a1d8c4f5c15c95f48c5dbae54970054
+[2023-05-11 15:52:02] Performing Preference /instance/org.eclipse.ui.workbench/org.eclipse.ui.commands = <?xml version="1.0" encoding="UTF-8"?>...
+[2023-05-11 15:52:02] <?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.ui.commands/>
+[2023-05-11 15:52:02] Performing Preference /instance/org.eclipse.ui.workbench/showCommandKeysForKeyboard = true
+[2023-05-11 15:52:02] 
+[2023-05-11 16:00:11] Executing startup tasks
+[2023-05-11 16:00:12] OpenJDK Runtime Environment 17.0.3+7
+[2023-05-11 16:00:12] Product self.product.version
+[2023-05-11 16:00:12] Workspace C:\Users\minhy\workspaces\e3\runtime-EclipseApplication
+[2023-05-11 16:00:12] Bundle org.eclipse.oomph.setup 1.24.0.v20220525-1027, build=5517, branch=ff2ccc003a1d8c4f5c15c95f48c5dbae54970054
+[2023-05-11 16:00:12] Bundle org.eclipse.oomph.setup.core 1.24.0.v20220601-1043, build=5517, branch=ff2ccc003a1d8c4f5c15c95f48c5dbae54970054
+[2023-05-11 16:00:12] Bundle org.eclipse.oomph.setup.p2 1.19.0.v20220607-1104, build=5517, branch=ff2ccc003a1d8c4f5c15c95f48c5dbae54970054
+[2023-05-11 16:00:12] Performing Preference /instance/org.eclipse.ui.workbench/org.eclipse.ui.commands = <?xml version="1.0" encoding="UTF-8"?>...
+[2023-05-11 16:00:12] <?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.ui.commands/>
+[2023-05-11 16:00:12] Performing Preference /instance/org.eclipse.ui.workbench/showCommandKeysForKeyboard = true
+[2023-05-11 16:00:12] 
+[2023-05-11 16:04:56] Executing startup tasks
+[2023-05-11 16:04:56] OpenJDK Runtime Environment 17.0.3+7
+[2023-05-11 16:04:56] Product self.product.version
+[2023-05-11 16:04:56] Workspace C:\Users\minhy\workspaces\e3\runtime-EclipseApplication
+[2023-05-11 16:04:56] Bundle org.eclipse.oomph.setup 1.24.0.v20220525-1027, build=5517, branch=ff2ccc003a1d8c4f5c15c95f48c5dbae54970054
+[2023-05-11 16:04:56] Bundle org.eclipse.oomph.setup.core 1.24.0.v20220601-1043, build=5517, branch=ff2ccc003a1d8c4f5c15c95f48c5dbae54970054
+[2023-05-11 16:04:56] Bundle org.eclipse.oomph.setup.p2 1.19.0.v20220607-1104, build=5517, branch=ff2ccc003a1d8c4f5c15c95f48c5dbae54970054
+[2023-05-11 16:04:56] Performing Preference /instance/org.eclipse.ui.workbench/org.eclipse.ui.commands = <?xml version="1.0" encoding="UTF-8"?>...
+[2023-05-11 16:04:56] <?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.ui.commands/>
+[2023-05-11 16:04:56] Performing Preference /instance/org.eclipse.ui.workbench/showCommandKeysForKeyboard = true
+[2023-05-11 16:04:56] 
+[2023-05-11 16:05:36] Executing startup tasks
+[2023-05-11 16:05:36] OpenJDK Runtime Environment 17.0.3+7
+[2023-05-11 16:05:36] Product self.product.version
+[2023-05-11 16:05:36] Workspace C:\Users\minhy\workspaces\e3\runtime-EclipseApplication
+[2023-05-11 16:05:36] Bundle org.eclipse.oomph.setup 1.24.0.v20220525-1027, build=5517, branch=ff2ccc003a1d8c4f5c15c95f48c5dbae54970054
+[2023-05-11 16:05:36] Bundle org.eclipse.oomph.setup.core 1.24.0.v20220601-1043, build=5517, branch=ff2ccc003a1d8c4f5c15c95f48c5dbae54970054
+[2023-05-11 16:05:36] Bundle org.eclipse.oomph.setup.p2 1.19.0.v20220607-1104, build=5517, branch=ff2ccc003a1d8c4f5c15c95f48c5dbae54970054
+[2023-05-11 16:05:36] Performing Preference /instance/org.eclipse.ui.workbench/org.eclipse.ui.commands = <?xml version="1.0" encoding="UTF-8"?>...
+[2023-05-11 16:05:36] <?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.ui.commands/>
+[2023-05-11 16:05:36] Performing Preference /instance/org.eclipse.ui.workbench/showCommandKeysForKeyboard = true
+[2023-05-11 16:05:37] 
+[2023-05-11 16:09:02] Executing startup tasks
+[2023-05-11 16:09:02] OpenJDK Runtime Environment 17.0.3+7
+[2023-05-11 16:09:02] Product self.product.version
+[2023-05-11 16:09:02] Workspace C:\Users\minhy\workspaces\e3\runtime-EclipseApplication
+[2023-05-11 16:09:02] Bundle org.eclipse.oomph.setup 1.24.0.v20220525-1027, build=5517, branch=ff2ccc003a1d8c4f5c15c95f48c5dbae54970054
+[2023-05-11 16:09:02] Bundle org.eclipse.oomph.setup.core 1.24.0.v20220601-1043, build=5517, branch=ff2ccc003a1d8c4f5c15c95f48c5dbae54970054
+[2023-05-11 16:09:02] Bundle org.eclipse.oomph.setup.p2 1.19.0.v20220607-1104, build=5517, branch=ff2ccc003a1d8c4f5c15c95f48c5dbae54970054
+[2023-05-11 16:09:02] Performing Preference /instance/org.eclipse.ui.workbench/org.eclipse.ui.commands = <?xml version="1.0" encoding="UTF-8"?>...
+[2023-05-11 16:09:02] <?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.ui.commands/>
+[2023-05-11 16:09:02] Performing Preference /instance/org.eclipse.ui.workbench/showCommandKeysForKeyboard = true
+[2023-05-11 16:09:02] 
+[2023-05-11 16:12:49] Executing startup tasks
+[2023-05-11 16:12:49] OpenJDK Runtime Environment 17.0.3+7
+[2023-05-11 16:12:49] Product self.product.version
+[2023-05-11 16:12:49] Workspace C:\Users\minhy\workspaces\e3\runtime-EclipseApplication
+[2023-05-11 16:12:49] Bundle org.eclipse.oomph.setup 1.24.0.v20220525-1027, build=5517, branch=ff2ccc003a1d8c4f5c15c95f48c5dbae54970054
+[2023-05-11 16:12:49] Bundle org.eclipse.oomph.setup.core 1.24.0.v20220601-1043, build=5517, branch=ff2ccc003a1d8c4f5c15c95f48c5dbae54970054
+[2023-05-11 16:12:49] Bundle org.eclipse.oomph.setup.p2 1.19.0.v20220607-1104, build=5517, branch=ff2ccc003a1d8c4f5c15c95f48c5dbae54970054
+[2023-05-11 16:12:49] Performing Preference /instance/org.eclipse.ui.workbench/org.eclipse.ui.commands = <?xml version="1.0" encoding="UTF-8"?>...
+[2023-05-11 16:12:49] <?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.ui.commands/>
+[2023-05-11 16:12:49] Performing Preference /instance/org.eclipse.ui.workbench/showCommandKeysForKeyboard = true
+[2023-05-11 16:12:49] 
+[2023-05-29 09:43:58] Executing startup tasks
+[2023-05-29 09:43:58] OpenJDK Runtime Environment 17.0.3+7
+[2023-05-29 09:43:58] Product self.product.version
+[2023-05-29 09:43:58] Workspace C:\Users\minhy\workspaces\e3\runtime-EclipseApplication
+[2023-05-29 09:43:58] Bundle org.eclipse.oomph.setup 1.24.0.v20220525-1027, build=5517, branch=ff2ccc003a1d8c4f5c15c95f48c5dbae54970054
+[2023-05-29 09:43:58] Bundle org.eclipse.oomph.setup.core 1.24.0.v20220601-1043, build=5517, branch=ff2ccc003a1d8c4f5c15c95f48c5dbae54970054
+[2023-05-29 09:43:58] Bundle org.eclipse.oomph.setup.p2 1.19.0.v20220607-1104, build=5517, branch=ff2ccc003a1d8c4f5c15c95f48c5dbae54970054
+[2023-05-29 09:43:58] Performing Preference /instance/org.eclipse.ui.workbench/org.eclipse.ui.commands = <?xml version="1.0" encoding="UTF-8"?>...
+[2023-05-29 09:43:58] <?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.ui.commands/>
+[2023-05-29 09:43:58] Performing Preference /instance/org.eclipse.ui.workbench/showCommandKeysForKeyboard = true
+[2023-05-29 09:43:59] 
+[2023-05-29 09:53:07] Executing startup tasks
+[2023-05-29 09:53:07] OpenJDK Runtime Environment 17.0.3+7
+[2023-05-29 09:53:07] Product self.product.version
+[2023-05-29 09:53:07] Workspace C:\Users\minhy\workspaces\e3\runtime-EclipseApplication
+[2023-05-29 09:53:07] Bundle org.eclipse.oomph.setup 1.24.0.v20220525-1027, build=5517, branch=ff2ccc003a1d8c4f5c15c95f48c5dbae54970054
+[2023-05-29 09:53:07] Bundle org.eclipse.oomph.setup.core 1.24.0.v20220601-1043, build=5517, branch=ff2ccc003a1d8c4f5c15c95f48c5dbae54970054
+[2023-05-29 09:53:07] Bundle org.eclipse.oomph.setup.p2 1.19.0.v20220607-1104, build=5517, branch=ff2ccc003a1d8c4f5c15c95f48c5dbae54970054
+[2023-05-29 09:53:07] Performing Preference /instance/org.eclipse.ui.workbench/org.eclipse.ui.commands = <?xml version="1.0" encoding="UTF-8"?>...
+[2023-05-29 09:53:07] <?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.ui.commands/>
+[2023-05-29 09:53:07] Performing Preference /instance/org.eclipse.ui.workbench/showCommandKeysForKeyboard = true
+[2023-05-29 09:53:07] 
+[2023-05-29 09:54:40] Executing startup tasks
+[2023-05-29 09:54:40] OpenJDK Runtime Environment 17.0.3+7
+[2023-05-29 09:54:40] Product self.product.version
+[2023-05-29 09:54:40] Workspace C:\Users\minhy\workspaces\e3\runtime-EclipseApplication
+[2023-05-29 09:54:40] Bundle org.eclipse.oomph.setup 1.24.0.v20220525-1027, build=5517, branch=ff2ccc003a1d8c4f5c15c95f48c5dbae54970054
+[2023-05-29 09:54:40] Bundle org.eclipse.oomph.setup.core 1.24.0.v20220601-1043, build=5517, branch=ff2ccc003a1d8c4f5c15c95f48c5dbae54970054
+[2023-05-29 09:54:40] Bundle org.eclipse.oomph.setup.p2 1.19.0.v20220607-1104, build=5517, branch=ff2ccc003a1d8c4f5c15c95f48c5dbae54970054
+[2023-05-29 09:54:40] Performing Preference /instance/org.eclipse.ui.workbench/org.eclipse.ui.commands = <?xml version="1.0" encoding="UTF-8"?>...
+[2023-05-29 09:54:40] <?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.ui.commands/>
+[2023-05-29 09:54:40] Performing Preference /instance/org.eclipse.ui.workbench/showCommandKeysForKeyboard = true
+[2023-05-29 09:54:40] 

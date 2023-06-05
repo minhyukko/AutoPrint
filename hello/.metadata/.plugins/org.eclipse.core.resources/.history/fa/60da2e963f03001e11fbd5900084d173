@@ -1,0 +1,15 @@
+import winsound
+
+def read_java_file(file_path):
+    with open(file_path, 'r') as file:
+        java_code = file.read()
+    return java_code
+
+# Example usage
+java_file_path = 'Main.java'
+java_code = read_java_file(java_file_path)
+print(java_code)
+
+frequency = 2500  # Set Frequency To 2500 Hertz
+duration = 1000  # Set Duration To 1000 ms == 1 second
+winsound.Beep(frequency, duration)

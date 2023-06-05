@@ -1,0 +1,21 @@
+package com.remainsoftware.e3.hello;
+
+import org.python.core.*;
+
+public class RunPythonFile {
+	public static void main(String[] args) throws Exception {
+	    // Create a Python interpreter.
+	    PyInterpreter interpreter = new PyInterpreter();
+
+	    // Load the Python script.
+	    PyModule module = interpreter.execfile("my_script.py");
+
+	    // Execute a function in the Python script.
+	    PyObject result = module.call("my_function", new Object[] {});
+
+	    // Print the result of the function call.
+	    System.out.println(result);
+	}
+}
+
+

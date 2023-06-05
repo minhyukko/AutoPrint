@@ -1,0 +1,23 @@
+package com.remainsoftware.e3.hello;
+
+import java.io.IOException;
+
+public class RunPythonFile {
+    public static void main(String[] args) {
+        String command = "ls -l"; // Replace with your desired command
+
+        try {
+            Process process = Runtime.getRuntime().exec(command);
+            int exitCode = process.waitFor();
+
+            if (exitCode == 0) {
+                System.out.println("Command executed successfully.");
+            } else {
+                System.out.println("Command execution failed.");
+            }
+        } catch (IOException | InterruptedException e) {
+            e.printStackTrace();
+        }
+    }
+}
+

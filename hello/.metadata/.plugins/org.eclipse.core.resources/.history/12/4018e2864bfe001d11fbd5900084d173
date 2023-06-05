@@ -1,0 +1,31 @@
+package com.remainsoftware.e3.hello;
+
+import java.io.IOException;
+
+public class RunPythonFile {
+    public static void main(String[] args) {
+        String pythonFilePath = "path/to/your/python/file.py";
+
+        try {
+            // Create the process builder with the python command and script file path
+            ProcessBuilder processBuilder = new ProcessBuilder("python", pythonFilePath);
+            
+            // Optional: Set the working directory if your Python script depends on relative paths
+            // processBuilder.directory(new File("path/to/working/directory"));
+
+            // Start the process
+            Process process = processBuilder.start();
+
+            // Wait for the process to complete
+            int exitCode = process.waitFor();
+
+            if (exitCode == 0) {
+                System.out.println("Python script executed successfully.");
+            } else {
+                System.out.println("Python script execution failed. Exit code: " + exitCode);
+            }
+        } catch (IOException | InterruptedException e) {
+            e.printStackTrace();
+        }
+    }
+}
