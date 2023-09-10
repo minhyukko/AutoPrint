@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
-		<item key="selection" value="combinedArray"/>
+		<item key="selection" value="Bojang"/>
 		<item key="wrap" value="true"/>
 		<item key="casesensitive" value="false"/>
 		<item key="wholeword" value="false"/>
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
 		<list key="findhistory">
+			<item value="bojang"/>
+			<item value="writeAfterNthLine"/>
+			<item value="run("/>
 			<item value="combinedArray"/>
 			<item value="variables to"/>
 			<item value="args"/>
@@ -20,9 +23,6 @@
 			<item value="spaceQue."/>
 			<item value="poll"/>
 			<item value="push"/>
-			<item value="peek"/>
-			<item value="Queue"/>
-			<item value="removePrintStatementsFromFile"/>
 		</list>
 		<list key="replacehistory">
 			<item value="parent"/>
@@ -33,6 +33,6 @@
 		<item key="DIALOG_Y_ORIGIN" value="224"/>
 		<item key="DIALOG_WIDTH" value="322"/>
 		<item key="DIALOG_HEIGHT" value="391"/>
-		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|5|0|Segoe UI"/>
 	</section>
 </section>

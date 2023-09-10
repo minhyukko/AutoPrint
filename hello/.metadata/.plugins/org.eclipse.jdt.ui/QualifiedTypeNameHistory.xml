@@ -21,4 +21,5 @@
     <fullyQualifiedTypeName name="org.eclipse.swt.widgets.Label"/>
     <fullyQualifiedTypeName name="java.awt.GridLayout"/>
     <fullyQualifiedTypeName name="org.eclipse.swt.layout.GridLayout"/>
+    <fullyQualifiedTypeName name="javaParser.JavaParserExample"/>
 </qualifiedTypeNameHistroy>

@@ -3,6 +3,7 @@
 	<name>com.remainsoftware.e3.hello</name>
 	<comment></comment>
 	<projects>
+		<project>JavaParserProject</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>

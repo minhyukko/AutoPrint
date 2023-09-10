@@ -1,4 +1,4 @@
-!SESSION 2023-05-29 09:54:14.961 -----------------------------------------------
+!SESSION 2023-07-31 08:26:32.333 -----------------------------------------------
 eclipse.buildId=4.24.0.I20220607-0700
 java.version=17.0.3
 java.vendor=Eclipse Adoptium
@@ -6,21 +6,21 @@ BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
 Framework arguments:  -product org.eclipse.platform.ide
 Command-line arguments:  -product org.eclipse.platform.ide -data C:\Users\minhy\workspaces\e3\hello/../runtime-EclipseApplication -dev file:C:/Users/minhy/workspaces/e3/hello/.metadata/.plugins/org.eclipse.pde.core/Eclipse Application/dev.properties -os win32 -ws win32 -arch x86_64 -consoleLog
 
-!ENTRY org.eclipse.update.configurator 4 0 2023-05-29 09:54:19.106
+!ENTRY org.eclipse.update.configurator 4 0 2023-07-31 08:26:36.354
 !MESSAGE Plugin does not have a valid identifier: plugins/AutoPrint.jar
 
-!ENTRY org.eclipse.update.configurator 4 0 2023-05-29 09:54:19.108
+!ENTRY org.eclipse.update.configurator 4 0 2023-07-31 08:26:36.356
 !MESSAGE Plugin does not have a valid version: plugins/AutoPrint.jar
 
-!ENTRY org.eclipse.jface 2 0 2023-05-29 09:54:23.735
+!ENTRY org.eclipse.jface 2 0 2023-07-31 08:26:39.660
 !MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
-!SUBENTRY 1 org.eclipse.jface 2 0 2023-05-29 09:54:23.736
+!SUBENTRY 1 org.eclipse.jface 2 0 2023-07-31 08:26:39.661
 !MESSAGE A conflict occurred for CTRL+SHIFT+T:
 Binding(CTRL+SHIFT+T,
 	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
 		Open a type in a Java editor,
 		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
-		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@1ab85862,
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@7816454d,
 		,,true),null),
 	org.eclipse.ui.defaultAcceleratorConfiguration,
 	org.eclipse.ui.contexts.window,,,system)
@@ -28,17 +28,17 @@ Binding(CTRL+SHIFT+T,
 	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
 		,
 		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
-		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@504c415c,
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@67d180e4,
 		,,true),null),
 	org.eclipse.ui.defaultAcceleratorConfiguration,
 	org.eclipse.ui.contexts.window,,,system)
-!SUBENTRY 1 org.eclipse.jface 2 0 2023-05-29 09:54:23.736
+!SUBENTRY 1 org.eclipse.jface 2 0 2023-07-31 08:26:39.661
 !MESSAGE A conflict occurred for ALT+SHIFT+R:
 Binding(ALT+SHIFT+R,
 	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.rename.element,Rename - Refactoring ,
 		Rename the selected element,
 		Category(org.eclipse.jdt.ui.category.refactoring,Refactor - Java,Java Refactoring Actions,true),
-		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@6c9e74f3,
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@54e18a46,
 		,,true),null),
 	org.eclipse.ui.defaultAcceleratorConfiguration,
 	org.eclipse.ui.contexts.window,,,system)
@@ -46,17 +46,17 @@ Binding(ALT+SHIFT+R,
 	ParameterizedCommand(Command(org.eclipse.ui.edit.rename,Rename,
 		Rename the selected item,
 		Category(org.eclipse.ui.category.file,File,null,true),
-		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@813ab53,
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@1293f8d7,
 		,,true),null),
 	org.eclipse.ui.defaultAcceleratorConfiguration,
 	org.eclipse.ui.contexts.window,,,system)
 
-!ENTRY org.eclipse.egit.ui 2 0 2023-05-29 09:54:31.556
+!ENTRY org.eclipse.egit.ui 2 0 2023-07-31 08:26:45.403
 !MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
 user global configuration and to define the default location to store repositories: 'C:\Users\minhy'. If this is
 not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
 EGit might behave differently since they see different configuration options.
 This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
 
-!ENTRY org.eclipse.oomph.setup.ui 1 0 2023-05-29 09:54:40.686
+!ENTRY org.eclipse.oomph.setup.ui 1 0 2023-07-31 08:26:53.338
 !MESSAGE Setup tasks were performed during startup updating 2 preferences. See 'C:\Users\minhy\workspaces\e3\hello\.metadata\.plugins\org.eclipse.pde.core\Eclipse Application\org.eclipse.oomph.setup\setup.log' for details
