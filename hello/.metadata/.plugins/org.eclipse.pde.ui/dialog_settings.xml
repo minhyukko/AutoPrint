@@ -6,6 +6,7 @@
 	<item key="apiAnalysis" value="false"/>
 	<item key="rcpPlugin" value="false"/>
 	<list key="providers">
+		<item value="REMAINSOFTWARE"/>
 		<item value="Remain Software"/>
 	</list>
 	<section name="quick_assist_proposal_size">
@@ -21,14 +22,14 @@
 		<section name="DialogBoundsSettings">
 			<item key="DIALOG_HEIGHT" value="500"/>
 			<item key="DIALOG_WIDTH" value="600"/>
-			<item key="DIALOG_X_ORIGIN" value="212"/>
-			<item key="DIALOG_Y_ORIGIN" value="51"/>
+			<item key="DIALOG_X_ORIGIN" value="915"/>
+			<item key="DIALOG_Y_ORIGIN" value="261"/>
 			<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
 		</section>
 	</section>
 	<section name="JavaAttributeWizard">
 		<section name="NewClassWizardPage">
-			<item key="create_constructor" value="false"/>
+			<item key="create_constructor" value="true"/>
 			<item key="create_unimplemented" value="true"/>
 		</section>
 	</section>
@@ -57,5 +58,9 @@
 		<item key="allowBinaryCycles" value="true"/>
 		<item key="useWorkspaceCompiledClasses" value="false"/>
 		<item key="signJAR" value="false"/>
+	</section>
+	<section name="dependenciesView">
+	</section>
+	<section name="PluginImportWizard">
 	</section>
 </section>

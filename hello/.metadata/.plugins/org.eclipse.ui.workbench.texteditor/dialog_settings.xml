@@ -1,36 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
-		<item key="selection" value="&quot;System.out.print&quot;"/>
+		<item key="selection" value="@link IWorkspace"/>
 		<item key="wrap" value="true"/>
 		<item key="casesensitive" value="false"/>
 		<item key="wholeword" value="false"/>
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
 		<list key="findhistory">
-			<item value="&quot;System.out.print&quot;"/>
-			<item value="800"/>
-			<item value="tabFolder"/>
-			<item value="composite1"/>
-			<item value="tree"/>
-			<item value="This is a warning message"/>
-			<item value="bojang"/>
-			<item value="writeAfterNthLine"/>
+			<item value="@link IWorkspace"/>
+			<item value="IResource"/>
+			<item value="org.eclipse.core.resources.IResource"/>
 			<item value="run("/>
-			<item value="combinedArray"/>
-			<item value="variables to"/>
-			<item value="args"/>
-			<item value=".txt"/>
-			<item value="Geek"/>
-			<item value="Geek.txt"/>
+			<item value="longlist"/>
+			<item value="remove"/>
+			<item value="JavaParserExample"/>
+			<item value="methodbody"/>
+			<item value="assignExprLineNum"/>
+			<item value="codeSnippet"/>
+			<item value="targetMethod"/>
+			<item value="copy"/>
+			<item value="files"/>
+			<item value="&quot;CHECK&quot;"/>
+			<item value="CHECK"/>
 		</list>
 		<list key="replacehistory">
+			<item value=""/>
 			<item value="parent"/>
 		</list>
 	</section>
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
-		<item key="DIALOG_X_ORIGIN" value="1190"/>
-		<item key="DIALOG_Y_ORIGIN" value="224"/>
+		<item key="DIALOG_X_ORIGIN" value="1135"/>
+		<item key="DIALOG_Y_ORIGIN" value="173"/>
 		<item key="DIALOG_WIDTH" value="322"/>
 		<item key="DIALOG_HEIGHT" value="391"/>
 		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>

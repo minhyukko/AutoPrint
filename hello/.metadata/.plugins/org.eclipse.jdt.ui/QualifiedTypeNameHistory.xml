@@ -22,4 +22,6 @@
     <fullyQualifiedTypeName name="java.awt.GridLayout"/>
     <fullyQualifiedTypeName name="org.eclipse.swt.layout.GridLayout"/>
     <fullyQualifiedTypeName name="javaParser.JavaParserExample"/>
+    <fullyQualifiedTypeName name="java.io.File"/>
+    <fullyQualifiedTypeName name="org.eclipse.core.internal.preferences.Activator"/>
 </qualifiedTypeNameHistroy>

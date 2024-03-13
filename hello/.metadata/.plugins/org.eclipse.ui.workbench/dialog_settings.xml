@@ -6,14 +6,14 @@
 		<item key="uncategorizedFilter" value="true"/>
 	</section>
 	<section name="InstallationDialogSettings">
-		<item key="DIALOG_X_ORIGIN" value="-815"/>
-		<item key="DIALOG_Y_ORIGIN" value="-282"/>
-		<item key="DIALOG_WIDTH" value="1723"/>
-		<item key="DIALOG_HEIGHT" value="1083"/>
+		<item key="DIALOG_X_ORIGIN" value="-923"/>
+		<item key="DIALOG_Y_ORIGIN" value="-102"/>
+		<item key="DIALOG_WIDTH" value="888"/>
+		<item key="DIALOG_HEIGHT" value="1019"/>
 		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
 	</section>
 	<section name="ImportExportAction">
-		<item key="ImportExportPage.STORE_SELECTED_EXPORT_WIZARD_ID" value="org.eclipse.pde.ui.pluginExportWizard"/>
+		<item key="ImportExportPage.STORE_SELECTED_EXPORT_WIZARD_ID" value="org.eclipse.jdt.internal.ui.fatjarpackager.JarPackageWizard"/>
 		<list key="ImportExportPage.STORE_EXPANDED_EXPORT_CATEGORIES">
 			<item value="org.eclipse.jdt.ui.Java"/>
 			<item value="org.eclipse.pde.ui.PluginDevelopment"/>
@@ -38,5 +38,13 @@
 		</list>
 	</section>
 	<section name="NewWizardAction">
+		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.eclipse.jdt.ui.wizards.NewClassCreationWizard"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+		</list>
+	</section>
+	<section name="EditorSelectionDialog">
+		<item key="EditorSelectionDialog.STORE_ID_FILE_EXTENSION" value=".java"/>
+		<item key="EditorSelectionDialog.STORE_ID_INTERNAL_EXTERNAL" value="false"/>
+		<item key="EditorSelectionDialog.STORE_ID_DESCR" value="org.eclipse.m2e.editor.MavenPomEditor"/>
 	</section>
 </section>
